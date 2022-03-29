@@ -2,7 +2,11 @@
 
 My name is Dar Dahlen, I'm a physicist/programmer.
 
-Since 2018 I have been working at [Quantum Benchmark](https://quantumbenchmark.com/about-us/) where I am the lead developer of [compilation tools](https://trueq.quantumbenchmark.com/) for state of the art quantum computers.
+Current work is at CalTech on the NEO Surveyor space telescope, looking for dangerous asteroids.
+
+Before this I worked at SpaceX for 8 or 9 months on Starlink, doing algorithm development.
+
+From 2018 to 2021 I worked at [Quantum Benchmark](https://quantumbenchmark.com/about-us/) where I am the lead developer of [compilation tools](https://trueq.quantumbenchmark.com/) for state of the art quantum computers.
 
 Before this I was working more directly with Quantum Computing hardware:
 
