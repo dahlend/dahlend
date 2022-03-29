@@ -6,9 +6,9 @@ Current work is at CalTech on the NEO Surveyor space telescope, looking for dang
 
 Before this I worked at SpaceX for 8 or 9 months on Starlink, doing algorithm development.
 
-From 2018 to 2021 I worked at [Quantum Benchmark](https://quantumbenchmark.com/about-us/) where I am the lead developer of [compilation tools](https://trueq.quantumbenchmark.com/) for state of the art quantum computers.
+From 2018 to 2021 I worked at [Quantum Benchmark](https://quantumbenchmark.com/about-us/) where I was the lead developer of [compilation tools](https://trueq.quantumbenchmark.com/) for state of the art quantum computers.
 
-Before this I was working more directly with Quantum Computing hardware:
+Before this I worked more directly with Quantum Computing hardware:
 
 - [Superconducting Quantum Chips](http://qnl.berkeley.edu/) - 2016-2018 - full stack development from hardware/FPGA interfaces up to Python, along with hardware development.
 
