@@ -5,7 +5,7 @@ My name is Dar Dahlen, I'm a physicist/programmer.
 I am currently a PhD student in Comet dust and activity modeling at TU Braunschweig.
 
 Previously worked at CalTech for 3 years on the NEO Surveyor space telescope, looking for dangerous asteroids.
-Where I wrote [kete](https://github.com/Caltech-IPAC/kete) which allows for the calculation of asteroid and comet orbits on all known objects on a laptop.
+Where I wrote [kete](https://github.com/dahlend/kete) which allows for the calculation of asteroid and comet orbits on all known objects on a laptop.
 
 Before this I worked at SpaceX for 8 or 9 months on Starlink, doing algorithm development.
 
